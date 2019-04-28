@@ -109,4 +109,18 @@ In the above table we can see that the sepal width is unique in this dataset bec
 This shows that the sepal width is yet again the worst classification feature, closely followed by the sepal length. Therefore, the sepal width/length is generally the same across the 3 species of the dataset.
 
 ## Conclusion
-In conclusion, the evidence suggests that out of the 3 species in the Iris dataset, the Iris setosa is the smallest species. The Iris versicolor is the second largest and the Iris virginica is the largest of the dataset. The versicolor and the virginica 
+In conclusion, the evidence suggests that out of the 3 species in the Iris dataset, the Iris setosa is the smallest species. The Iris versicolor is the second largest and the Iris virginica is the largest of the dataset. 
+Conclusion
+
+In conclusion, the evidence suggests that out of the 3 species in the Iris dataset, the Iris setosa is the smallest species. The Iris versicolor is the second largest and the Iris virginica is the largest of the dataset.
+Iris dataset- isn’t too large (only 150 rows). It lends it self reasonably to linearregression. It is an easy place to start. Different tools and techniques give different insights into the dataset.
+
+References
+
+www.kaggle.com 
+www.google.com 
+www.pandas.pydata.org 
+www.datatofish.com/
+create-pandas-dataframe 
+www.wikipedia.org
+www.youtube.com
